@@ -1,10 +1,20 @@
 # Bring Me *Ai*BROAD 🗺️🎓
-
 ## Let 🤖 AI Agents Take You Further Abroad ✈️
-Studying abroad can be a life-changing experience, but navigating the complex application process often proves daunting, especially for first-generation academics who lack support. Our solution aims to bridge this gap by providing an accessible platform that helps students from all backgrounds find and apply to study abroad programs efficiently.
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top;">
+      <img src="./assets/new_frontend_prev1.png" style="width:100%; display:block;" alt="Preview 1">
+    </td>
+    <td style="width:50%; vertical-align:top;">
+      <img src="./assets/new_frontend_prev2.png" style="width:100%; display:block;" alt="Preview 2">
+    </td>
+  </tr>
+</table>
 
 ### Problem Statement & Solution❗
-Many students spend countless hours scouring university websites for relevant information, only to find the application process time-consuming and overwhelming. This platform addresses these challenges by streamlining the search and application process, ensuring that every student has the opportunity to broaden their horizons. Our platform is designed to:
+Studying abroad﻿ can be transformative, but the complex, time‑consuming application process—especially for first‑generation students without support—often feels overwhelming. Without clear guidance, many spend hours searching scattered university information instead of confidently finding and applying to suitable programs. This platform addresses these challenges by streamlining the search and application process, ensuring that every student has the opportunity to broaden their horizons. Our platform is designed to:
+
 #### 🤝👩‍🎓 **Support First-Generation Academics**
 By providing a user-friendly interface, we help students who lack traditional support networks to explore international study opportunities.
 #### ⏳ **Save Time**
