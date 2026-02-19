@@ -64,4 +64,4 @@ Users are shown the application deadlines for their selected universities to ens
 ## Credits / Acknowledgements
 This team project was initially developed during the 24-hour Q-Hackathon 2025 @ Q-Summit (April 23rd - 24th) in 🇩🇪
 
-© 2025
+This project is licensed under the [MIT License](LICENSE) © 2025.
